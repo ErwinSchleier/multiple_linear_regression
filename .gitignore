@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# in development
+multiple_linear_regression.ipynb
+data/vehicle_data.csv
